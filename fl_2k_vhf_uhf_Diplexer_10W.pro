@@ -1,4 +1,4 @@
-update=Wed 23 May 2018 09:25:29 SAST
+update=Fri 25 May 2018 22:45:13 SAST
 version=1
 last_client=eeschema
 [general]
@@ -67,3 +67,13 @@ LibName33=/home/anton/Documents/kicad/Bacar_transmitter/Bacar_Raspberry_tx-maste
 LibName34=/home/anton/Documents/kicad/Bacar_transmitter/Bacar_Raspberry_tx-master/RPi_Hat-rescue
 LibName35=PBP_440_Band_pass
 LibName36=rbp-440+
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
