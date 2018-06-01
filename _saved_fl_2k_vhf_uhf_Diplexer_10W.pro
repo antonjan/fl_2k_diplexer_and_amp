@@ -1,4 +1,4 @@
-update=Fri 01 Jun 2018 10:41:22 SAST
+update=Mon 28 May 2018 23:10:12 SAST
 version=1
 last_client=eeschema
 [general]
@@ -29,7 +29,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=Inductor_smd_2510.pretty;../Bacar_transmitter/Bacar_Raspberry_tx-master/Bacar.pretty;Inductor_smd_2510.pretty
+LibDir=Inductor_smd_2510.pretty;../fl_2k_diplexer_and_amp;../Bacar_transmitter/Bacar_Raspberry_tx-master/Bacar.pretty;../Bacar_transmitter;../IQ_Modulator/orangepi-zero.pretty
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -63,17 +63,9 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=/home/anton/Documents/kicad/Bacar_transmitter/Bacar_Raspberry_tx-master/Raspberry_Pi_2m_TX_LPF_7Stage-cache
-LibName34=/home/anton/Documents/kicad/Bacar_transmitter/Bacar_Raspberry_tx-master/RPi_Hat-rescue
+LibName33=fl_2k_vhf_uhf_Diplexer_10W-cache
+LibName34=MMZ09332BT1_RF_amp
 LibName35=PBP_440_Band_pass
-LibName36=rbp-440+
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName36=Raspberry_Pi_2m_TX_LPF_7Stage-rescue
+LibName37=rbp-440+
+LibName38=vhf_uhf_Diplexer_10W-cache
